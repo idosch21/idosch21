@@ -15,14 +15,6 @@ I am a software developer driven by the challenge of building clean, scalable, a
 
 ---
 
-### 🌟 Featured Projects
-
-- **[Chronos](https://github.com/idosch21/productivity-tracker):** A full-stack telemetry tracker featuring a Chrome Extension and a FastAPI backend with smart idle/audible detection.
-- **[RabbitMQ Order Dispatcher](https://github.com/idosch21/RabbitMQ-Ecommerce-service):** A distributed microservice architecture in C# focused on fault-tolerant asynchronous communication.
-- **[Kafka Event Processor](https://github.com/idosch21/Kafka-ecommerce-service):** An event-driven pipeline ensuring strict sequential processing in high-throughput environments.
-
----
-
 ### 📫 Connect with me:
 
 - **LinkedIn:** [linkedin.com/in/ido-schneider](https://linkedin.com/in/ido-schneider)

@@ -2,7 +2,7 @@
 
 ### 🚀 Computer Science Student @ MTA 
 
-I am a software developer driven by the challenge of building clean, scalable, and reliable systems. With a background in **high-stakes military leadership** and a passion for **distributed systems**, I enjoy solving complex problems across the full stack.
+I am a software developer driven by the challenge of building clean, scalable, and reliable systems. I enjoy solving complex problems across the full stack.
 
 ---
 

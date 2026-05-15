@@ -19,5 +19,3 @@ I am a software developer driven by the challenge of building clean, scalable, a
 
 - **LinkedIn:** [linkedin.com/in/ido-schneider](https://linkedin.com/in/ido-schneider)
 - **Email:** idonew1@gmail.com
-
-*"Driven by curiosity, fueled by coffee (and occasionally raw ginger)."*
